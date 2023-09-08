@@ -1,0 +1,15 @@
+C:\cat2\bin\Debug\net6.0\Cat2.exe
+c:\cat2\bin\Debug\net6.0\Cat2.deps.json
+c:\cat2\bin\Debug\net6.0\Cat2.runtimeconfig.json
+C:\cat2\bin\Debug\net6.0\Cat2.dll
+C:\cat2\bin\Debug\net6.0\Cat2.pdb
+C:\cat2\obj\Debug\net6.0\Cat2.csproj.AssemblyReference.cache
+C:\cat2\obj\Debug\net6.0\Cat2.GeneratedMSBuildEditorConfig.editorconfig
+C:\cat2\obj\Debug\net6.0\Cat2.AssemblyInfoInputs.cache
+C:\cat2\obj\Debug\net6.0\Cat2.AssemblyInfo.cs
+C:\cat2\obj\Debug\net6.0\Cat2.csproj.CoreCompileInputs.cache
+C:\cat2\obj\Debug\net6.0\Cat2.dll
+C:\cat2\obj\Debug\net6.0\refint\Cat2.dll
+C:\cat2\obj\Debug\net6.0\Cat2.pdb
+c:\cat2\obj\Debug\net6.0\Cat2.genruntimeconfig.cache
+c:\cat2\obj\Debug\net6.0\ref\Cat2.dll
